@@ -2,7 +2,6 @@ import unittest
 from selenium import webdriver
 from page_objects import Home_Page
 from web_driver import Driver
-import utils
 
 
 class Test_Bank(unittest.TestCase):
